@@ -1,2 +1,3 @@
-# etl_01_covid
-Basic ETL of covid to db
+# ETL-Project
+
+ETL-Project - Peter Pages, & Dimitri Papatriantafyllou
