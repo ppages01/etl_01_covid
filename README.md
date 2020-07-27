@@ -1,3 +1,1 @@
-# ETL-Project
-
-ETL-Project - Peter Pages, & Dimitri Papatriantafyllou
+# ETL_01_covid
